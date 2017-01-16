@@ -1,1 +1,1 @@
-# dessignPatternsExercises
+# Some dessign patterns exercises
